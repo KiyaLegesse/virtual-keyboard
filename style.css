@@ -1,0 +1,19 @@
+h1 {
+  color: #000983;
+  font-size: 45px;
+  text-align: center;
+}
+textarea {
+  top: 140px;
+  width: 100%;
+  max-width: 100rem;
+  border-color: #000983;
+  border-width: 3px;
+  border-radius: 30px;
+  height: 200px;
+  color: #000983;
+  font-size: 18px;
+  padding: 15px;
+  display: block;
+  margin: 0 auto;
+}
